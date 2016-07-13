@@ -1,0 +1,57 @@
+body {
+    background-image: url("Light-Wood-Background-Wallpaper.jpg");
+    font-family: Copperplate;
+}
+
+.carttop, .cartbottom {
+    border: solid;
+    border-radius: 15px;
+    margin:40px;
+    background-color: whitesmoke;
+}
+
+.head {
+    text-align: center;
+}
+
+.addbutton {
+    background-color: #CC6633;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.newitemdiv {
+    margin-left: 20px;
+}
+
+.nameinput {
+    margin-left: 58px;
+}
+
+.cartitems, .grandtotal, .unitname {
+    margin-left: 20px;
+}
+
+.grandtotal {
+    font-size: 25px;
+}
+
+.loweritemquantity {
+    width: 50px;
+}
+
+.deletebutton {
+    background-color: #CC6633;
+    border-radius: 5px;
+}
+
+.checkout {
+    background-color: #CC6633;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.dollartotal {
+    color: red;
+}
